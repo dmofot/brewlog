@@ -1,2 +1,2 @@
 # brewlog
-brwelog.me holding ground
+brewlog.me holding ground
